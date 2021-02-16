@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UtilityDev
-- 👀 I’m interested in web development, graphics programming and other stupid stuff
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in web development, graphics programming, game development and other stupid stuff
+- 🌱 I’m currently learning React.js, OpenGL (kinda)
+- 💞️ I’m looking to collaborate on web and/or game development projects.
 - 📫 How to reach me @Utilityyy_ on twitter
 
 <!---
