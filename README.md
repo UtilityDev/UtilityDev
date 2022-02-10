@@ -1,4 +1,4 @@
-👋 ~ Hi, I'm Utility!
+👋 ~ Hi, I'm Utility! I am a 13 year old programmer,
 
 ✨ ~ I'm interested in operating systems, c++, linux
 
